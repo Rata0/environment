@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Rata0/environment/issues"
   },
-  "homepage": "https://github.com/Rata0/environment#readme"
+  "homepage": "https://github.com/Rata0/environment#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
